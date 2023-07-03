@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+:root{
+
+    --cor-azul-claro:#A8FFE2;
+    --cor-azul-escuro:#3A465C;
+
+    --font-do-titulo: 'Architects Daughter', cursive;
+}
+
+body{
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #ffffff;
+}
+
